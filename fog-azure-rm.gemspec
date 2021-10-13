@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'fog-json', '~> 1.2.0'
   spec.add_dependency 'azure_mgmt_compute', '~> 0.22.0'
   spec.add_dependency 'azure_mgmt_resources', '~> 0.18.2'
-  spec.add_dependency 'azure_mgmt_storage', '~> 0.22.0'
+  spec.add_dependency 'azure_mgmt_storage', '~> 0.21.0'
   spec.add_dependency 'azure_mgmt_network', '~> 0.22.0'
   spec.add_dependency 'azure_mgmt_dns', '~> 0.22.0'
   spec.add_dependency 'azure_mgmt_traffic_manager', '~> 0.22.0'
